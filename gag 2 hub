@@ -1,10 +1,9 @@
 --[[
     ============================================
-         Lumora Hub  |  Protected Build
+         Lumora Hub 
          discord.gg/YXHhXB3KWU
     ============================================
-    This script is obfuscated.
-    Redistribution or claiming as your own is not allowed.
+   
 ]]
 
 local function _b64(data)
